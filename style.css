@@ -1,0 +1,13 @@
+canvas {
+    outline: 1px solid black;
+    display: block;
+    margin: 20px auto;
+}
+.text {
+    text-align: center;
+    font-size: 30px;
+}
+.score {
+    font-size: 40px;
+    font-weight: bold;
+}
